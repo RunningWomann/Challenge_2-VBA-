@@ -3,8 +3,8 @@ import os
 import csv
 
 # Set the input/output path 
-input_path = os.path.join(r"C:\Users\Chloe\OneDrive\Desktop\Bootcamp\Challenge_3\PyPoll\Resources\election_data.csv")
-output_path = os.path.join(r"C:\Users\Chloe\OneDrive\Desktop\Bootcamp\Challenge_3\PyPoll\Analysis\Election Results.txt")
+input_path = os.path.join(r"C:\Users\Chloe\OneDrive\Desktop\Bootcamp\Challenge_3\PyPoll\election_data.csv")
+output_path = os.path.join(r"C:\Users\Chloe\OneDrive\Desktop\Bootcamp\Challenge_3\PyPoll\Election Results.txt")
 
 # Set variables
 total_count = 0 

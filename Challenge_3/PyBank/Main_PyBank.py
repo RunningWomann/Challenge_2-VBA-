@@ -3,8 +3,8 @@ import os
 import csv
 
 # Set the input/output path 
-input_path=os.path.join(r"C:\Users\Chloe\OneDrive\Desktop\Bootcamp\Challenge_3\PyBank\Resources\budget_data.csv")
-output_path = os.path.join(r"C:\Users\Chloe\OneDrive\Desktop\Bootcamp\Challenge_3\PyBank\Analysis\Financial Analysis.txt")
+input_path=os.path.join(r"C:\Users\Chloe\OneDrive\Desktop\Bootcamp\Challenge_3\PyBank\budget_data.csv")
+output_path = os.path.join(r"C:\Users\Chloe\OneDrive\Desktop\Bootcamp\Challenge_3\PyBank\Financial Analysis.txt")
 
 # Set variables
 total_months = []
